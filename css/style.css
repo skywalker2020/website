@@ -1,5 +1,4 @@
 body {
-
   background: #F4F4F4;
   margin: 0;
 }
@@ -20,19 +19,23 @@ body {
   padding: 45px 0 20px 40px;
   border: 2px solid black;
 }
+
 .menu {
   background: #e3d4cf;
   padding: 6px 0 6px 40px
 }
+
 .menu a {
   color: #6d685d;
   text-decoration: none;
   font-size: 20px;
   font-family: "Arial Narrow","Myraid Pro";
 }
+
 .menu a:hover {
   color: #fff;
 }
+
 aside {
   float: left;
   width: 120px;
@@ -51,7 +54,6 @@ h2 {
   color: #6d685d;
   font-size: 15px;
   margin: 20px 0 5px 0;
-
 }
 
 .main {
@@ -68,6 +70,10 @@ h2 {
   color: #444;
 }
 
+#home-image img {
+  width: 100%;
+}
+
 footer {
   padding: 6px 40px 6px 40px;
   background: #d6d6d6;
@@ -76,8 +82,13 @@ footer {
   font-size: 11px;
   text-decoration: right;
 }
+
 footer a {
   text-decoration: none;
   color: #262626;
+}
 
+.seperator {
+  color: #fff;
+  font-size: 11px;
 }
