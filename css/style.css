@@ -92,3 +92,29 @@ footer a {
   color: #fff;
   font-size: 11px;
 }
+
+/************About Page Styles**************/
+
+#about-page #home-image img {
+  width: 70%;
+  float: left;
+}
+
+#about-page #profile-info {
+  float: right;
+  width: 20%;
+  margin: 5px;
+}
+
+#about-page .description {
+  clear: both;
+  margin-top: 29px;
+}
+
+/***********contact page*********/
+#contact #form {
+  width: 500px;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+  margin: 0 auto;
+}
